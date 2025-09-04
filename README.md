@@ -25,9 +25,6 @@ Explorar ferramentas de IA voltadas para voz e linguagem, desenvolvendo habilida
 - A Conversão de texto em fala é feita no Speech Studio, não no serviço de Linguagem.
 - A Detecção de entidades nomeadas identifica nomes de pessoas, lugares, organizações etc.
 
-## 🖼️ Capturas de Tela
-As imagens estão organizadas nas pastas `/images` dentro de cada ferramenta.
-
 ## 📎 Referências
 - [Speech Studio - Microsoft Learn](https://learn.microsoft.com/pt-br/azure/ai-services/speech-service/speech-studio-overview)
 - [Language Studio - Microsoft Learn](https://learn.microsoft.com/pt-br/training/modules/analyze-text-ai-language/)
